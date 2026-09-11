@@ -1,1 +1,1 @@
-# The color is blue.
+# The color is red.
